@@ -134,5 +134,37 @@ border-bottom: 3px solid white;
     text-align: center;
 }
 
+.section-4 {
+    clear: both;
+    height: 45vh;
+    width: 100%;
+    background: #C372FF;
+    position: relative;
+    bottom: 10vh;
+}
+
+.img-5 {
+    float: left;
+    padding-left: 15vw;
+    padding-top: 10vh;  
+}
+
+.blockquote-section {
+    float: right;
+    font-weight: 300;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-left: 3vw;
+    color: white;
+    
+}
+
+h3 {
+    clear: both;
+    padding-left: 35px;
+}
+
+.blockquote-p {
+    padding-left: 35px;
+}
 
 
